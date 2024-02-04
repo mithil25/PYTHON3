@@ -14,6 +14,7 @@
 # Float // Float = Float
 # Int / Float = Float
 # Int // Float = Float
+# Int // Int = Integer
 # Float ** Int = Float (** is power function in python)
 # Int ** Float = Int
 print(1+1)
